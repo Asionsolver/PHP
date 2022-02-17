@@ -18,11 +18,13 @@
     */
 
     $notation = 'snack_case';
-    $notation2 = 'camelCase';
+    $_notation2 = 'camelCase';
     $notation3 = 'PascalCase';
-    echo "ashisKumar " . $notation2;
-    echo "ashis_kumar " . $notation; 
-    echo "AshisKumar " . $notation3; 
+
+
+    echo "1. ashisKumar ---- " . $_notation2 .'<br>';
+    echo "2. ashis_kumar ---- " . $notation. '<br>'; 
+    echo "3. AshisKumar ---- " . $notation3. '<br>'; 
     
     ?>
 
