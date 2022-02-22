@@ -102,17 +102,39 @@
     // echo'<br>';
     // echo (rand(10,50));
 
-    define('a',13);
-    echo(a);
-    var_dump(a);
-    define('b','13');
-    echo(b);
-    var_dump(b);
+    // define('a',13);
+    // echo(a);
+    // var_dump(a);
+    // define('b','13');
+    // echo(b);
+    // var_dump(b);
 
-    define('car',['RollRoyce','RangeRover','BMW','BENZ']);
-    var_dump(car);
-    echo('My dream car is '.car[1]);
+    // define('car',['RollRoyce','RangeRover','BMW','BENZ']);
+    // var_dump(car);
+    // echo('My dream car is '.car[1]);
+    //  echo'<br>';
 
+    // switch('white'){
+    //     case'red':
+    //         echo 'Apple is red';
+    //         break; 
+    //     case'Green':
+    //         echo 'Mango is green';
+    //         echo'<br>';
+    //         break;  
+    //     default:
+    //         echo 'I love to eat fruits';   
+    //         echo'<br>';
+    // }
+    // $x =2;
+    // while($x <=5){
+    //     echo 'The number is: '.$x.'<br>';
+    //     $x++;
+    // }
+
+    // echo "Today is " . date(1)."<br>"; //chose is your date
+    date_default_timezone_set("Asia/Dhaka");
+    echo "Today is " . date("h:i:sa-->d/m/y")."<br>";
     
     ?>
 
