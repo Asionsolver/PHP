@@ -1,0 +1,31 @@
+1. The Joy of PHP Programming: A Beginner’s Guide to Programming Interactive Web Applications with PHP and MySQL(1,3,1,3,2)
+2. Head First PHP & MySQL(1,3,2,3)
+PHP & MySQL Novice to Ninja(3,4,2)
+PHP: A Beginner’s Guide(4,2,4)
+PHP In Action: Objects, Design, Agility(_,_)
+Murach’s PHP and MySQL(6,11,5)
+Learning PHP, MySQL, JavaScript, & CSS: A Step-by-Step Guide to Creating Dynamic Websites(7,1,5,6)
+Programming PHP: Creating Dynamic Web Pages
+PHP and MySQL Web Development(5,9,6,7,4)
+PHP & MySQL: The Missing Manual(10,8)
+PHP for the Web: Visual QuickStart Guide
+PHP & MySQL
+PHP and MySQL for Dynamic Web Sites
+Modern PHP: New Features and Good Practices(8,6)
+PHP: The Complete Reference
+PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide(11,5)
+PHP Cookbook: Solutions & Examples for PHP Programmers(12,3)
+Programming PHP – by Kevin Tatroe, Peter MacIntyre & Rasmus Lerdorf “Foreword By: Michael Bourque”(_,_)
+Learn PHP & MySQL – Zero to Hero Programming Crash Course – by Paul Madoff(_,_)
+PHP Objects, Patterns, and Practice
+Apache MySQL PHP Web Dvlpmnt AIO Dsk FD
+Sams Teach Yourself PHP, MySQL and Apache All in One
+PHP & MySQL: Server-side Web Development
+Learn PHP in One Day and Learn It Well
+PHP & MySQL in Easy Steps: Covers MySQL 8.0
+PHP 8 Programming Tips, Tricks and Best Practices
+Laravel: Up & Running: A Framework for Building Modern PHP Apps
+PHP and Algorithmic Thinking for the Complete Beginner
+Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5
+PHP 8 Quick Scripting Reference
+Learning PHP: A Gentle Introduction to the Web’s Most Popular Language
